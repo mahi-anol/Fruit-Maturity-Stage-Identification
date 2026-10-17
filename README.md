@@ -1,13 +1,13 @@
 # Empowering Fruit Maturity Stage Classification through Transfer Learning and Conditional GAN Augmentation
 
-**Mahi Sarwar Anol, Md. Sazzadur Ahamed**
+**Mahi Sarwar Anol, Fabia Chowdhury, Md. Sazzadur Ahamed**
 Department of Computer Science and Engineering, Daffodil International University, Dhaka, Bangladesh
 
 ![Framework](https://img.shields.io/badge/TensorFlow-Keras-orange)
 ![Platform](https://img.shields.io/badge/Google-Colab-yellow)
 ![Best Accuracy](https://img.shields.io/badge/VGG19-95.99%25-brightgreen)
 
-> **Publication note:** This work was accepted for publication in 2023 but was never formally published. This repository shares the code, figures and results so the research stays openly available.
+> **Publication note:** This work was accepted for publication in 2023 but was never formally published. This repository shares the code, figures and results so the research stays openly available. pre-print: https://doi.org/10.5281/zenodo.23132321
 
 ---
 
